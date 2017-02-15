@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<acknowledgementReport>
+    <ExternalReferenceId>ERID0</ExternalReferenceId>
+    <ExternalScheduleId>TestData</ExternalScheduleId>
+    <BusinessAlias>TestData</BusinessAlias>
+    <BusinessAliasName>TestData</BusinessAliasName>
+    <ReportName>TestData</ReportName>
+    <contactsList>
+        <EmailId>emailid</EmailId>
+        <Timezone>IST</Timezone>
+        <RecipientType>TO</RecipientType>
+    </contactsList>
+    <FromEmailId>TestData</FromEmailId>
+    <EmailSubject>TestData</EmailSubject>
+    <DocumentType>TestData</DocumentType>
+    <DirectionCode>1</DirectionCode>
+    <ReceiverId>Rec0</ReceiverId>
+    <SenderId>Sen</SenderId>
+    <NotificationAction>MARK_REVIEWED_AND_SEND_NOTIFICATION</NotificationAction>
+    <AckType>OVERDUE</AckType>
+    <LookBackInMins>1440</LookBackInMins>
+    <reportDeliveryFormats>
+        <DeliveryFormat>Text</DeliveryFormat>
+        <DeliveryType>BODY</DeliveryType>
+    </reportDeliveryFormats>
+    <reportDeliveryFormats>
+        <DeliveryFormat>CSV</DeliveryFormat>
+        <DeliveryType>ATTACHMENT</DeliveryType>
+    </reportDeliveryFormats>
+    <reportDeliveryMethods>
+        <DeliveryMethod>SMTP</DeliveryMethod>
+    </reportDeliveryMethods>
+</acknowledgementReport>

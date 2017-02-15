@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProcessEvent>
+	<Mode>EventLinked</Mode>
+	<EventCode>Event</EventCode>
+	<ParentEventCodes></ParentEventCodes>
+	<StatusCode>1</StatusCode>
+	<StatusCodeIsFinal>false</StatusCodeIsFinal>
+	<TrackingPointID>1860</TrackingPointID>
+	<System>TestData</System>
+	<EventTime>2017-06-22T11:16:52 EDT</EventTime>
+	<EventDetail>IFN5c3RlbTogUE9EMDEgUHJvY2VzcyBJRDogNTkzMTg2MzEgQmF0Y2ggTnVtYmVyOiBPMjg4NTUwNTAgTWFpbHNsb3Q6IFNQVTVKTVFQ
+	</EventDetail>
+	<SenderAlias>QAUSER</SenderAlias>
+	<FileSize>403</FileSize>
+	<Filename>MQ_Message.dat</Filename>
+	<IsDocumentEvent>false</IsDocumentEvent>
+	<DirectionCode>0</DirectionCode>
+	<FileData>SVNBKjAwKkZQRSAgICAgICAqMDEqMDA0MDU3MjA0ICpaWiowMDQwNTcyMDQtMTAwMTAqMDEqODEyNjc4Mzc4ICAgICAgKjA3MDYyMioxMTE1KlUqMDA0MDAqMDAwMDA2NTQ2KjAqUCojJEdTKklOKjAwNDA1NzIwNCo4MTI2NzgzNzgqMjAwNzA2MjIqMTExNSo2NTQ2KlgqMDA0MDEwJFNUKjgxMCo2NTQ2MDAxJEJJRyoyMDA3MDYyMioxMDAxMCRJVDEqTTM5MCoyNDAqUEMqMS45Nzc4KlFUKlBOKjQyNjAzQUQwNTEwMCpQSyoxKlpaKkFBJElUMSpNMzkwKjE2MCpQQyoyLjE1MTMqUVQqUE4qNDI2MDNBRDA2MDAwKlBLKjEqWloqQUEkUkVGKk1LKjUwMzk0MDI1JFJFRipJSyoxNDI5NjgkRFRNKjA1MCoyMDA3MDYyMiRURFMqODE4ODgkQ1RUKjIkU0UqMTAqNjU0NjAwMSRHRSoxKjY1NDYkSUVBKjEqMDAwMDA2NTQ2JA
+	</FileData>
+</ProcessEvent>

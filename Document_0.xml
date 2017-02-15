@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProcessEvent>
+    <Mode>DocumentLinked</Mode>
+    <EventCode>EPRec19-200004</EventCode>
+    <ParentEventCodes>
+        <ParentEventCode>ECRec19-200004</ParentEventCode>
+    </ParentEventCodes>
+    <StatusCode>0</StatusCode>
+    <DirectionCode>1</DirectionCode>
+    <StatusCodeIsFinal>true</StatusCodeIsFinal>
+    <TrackingPointID>440</TrackingPointID>
+    <System>BPN</System>
+    <EventTime>2012-07-26T08:22:29 EDT</EventTime>
+    <EventDetail>QlBOX0VESUZBQ1REZWVudmVsb3BlVW5pZmllZFRyYWNr</EventDetail>
+    <EventDetailI18n>true</EventDetailI18n>
+    <EventDetails0>POD02</EventDetails0>
+    <EventDetails1>80506403</EventDetails1>
+    <SenderAlias>STERLING_TMS</SenderAlias>
+    <FileSize>801</FileSize>
+    <Filename>Flat_File.dat</Filename>
+    <FileGuid>tcudubbpngis020_-75d96f11_138c330b191_7391.440</FileGuid>
+    <CharSet>UTF-8</CharSet>
+    <IsDocumentEvent>true</IsDocumentEvent>
+    <SourceBatchID>8f924800-d71c-11e1-9704-3d3d895b5fa2</SourceBatchID>
+    <Document>
+        <DocumentCode>TestData</DocumentCode>
+        <DocumentType>ORDER</DocumentType>
+        <ReceiverID>TestData</ReceiverID>
+        <SenderID>TestData</SenderID>
+        <Bytes>TestData</Bytes>
+        <DocumentDate>TestData</DocumentDate>
+        <AckStatus>WAITING</AckStatus>
+        <AckExpiration>1487159750760</AckExpiration>
+        <DocumentReferenceNumbers>
+            <documentReferenceNumber type="InterchangeControlNumber">110310402</documentReferenceNumber>
+            <documentReferenceNumber type="InterchangeSenderID">IBM-001288075</documentReferenceNumber>
+            <documentReferenceNumber type="InterchangeReceiverID">IBM-SYSTEM</documentReferenceNumber>
+            <documentReferenceNumber type="EnvelopeName">TEST_Inbound_UNH</documentReferenceNumber>
+            <documentReferenceNumber type="Process ID">d1ba156f-dfc3-4e31-b13f-3d97cafec50e</documentReferenceNumber>
+            <documentReferenceNumber type="Source Filename">Editest.dat</documentReferenceNumber>
+            <documentReferenceNumber type="Source Folder"></documentReferenceNumber>
+            <documentReferenceNumber type="Source File Size">1</documentReferenceNumber>
+            <documentReferenceNumber type="Reference Number">1</documentReferenceNumber>
+            <documentReferenceNumber type="InterchangeControlNumber">none</documentReferenceNumber>
+            <documentReferenceNumber type="ExtraInfo1"></documentReferenceNumber>
+            <documentReferenceNumber type="ExtraInfo2"></documentReferenceNumber>
+            <documentReferenceNumber type="ExtraInfo3"></documentReferenceNumber>
+        </DocumentReferenceNumbers>
+        <FunctionalAcknowledgment>
+            <Interchange>
+                <SenderID tag="InterchangeSenderID">InterchangeSenderID</SenderID>
+                <ReceiverID tag="GroupReceiverID">GroupReceiverID</ReceiverID>
+                <ControlNumber tag="InterchangeControlNumber">GroupReceiverID</ControlNumber>
+                <AckStatus>WAITING</AckStatus>
+                <Group>
+                    <SenderID tag="GroupSenderID">TestData</SenderID>
+                    <ReceiverID tag="GroupSenderID">TestData</ReceiverID>
+                    <ControlNumber tag="GroupControlNumber">TestData</ControlNumber>
+                    <AckStatus>WAITING</AckStatus>
+                    <Transaction>
+                        <AckStatus>WAITING</AckStatus>
+                        <ControlNumber tag="TransactionSetControlNumber">TestData</ControlNumber>
+                        <TransactionSetID tag="TransactionSetIDCode">TestData</TransactionSetID>
+                    </Transaction>
+                </Group>
+            </Interchange>
+        </FunctionalAcknowledgment>
+    </Document>
+    <FileData>SVNBKiAgKiAgICAgICAgICAqICAqICAgICAgICAgICoxNCowMDUxMTI4NDIwMDQgICAqMDgqOTI1MTE5MDAwMCAgICAgKjA3MDYyMioxMDQwKlUqMDA0MDEqMDAwMDAwMDAxKjAqUCo+fkdTKkZBKjAwNTExMjg0MjAwNCo2MTI1NDA0NDU1KjIwMDcwNjIyKjEwNDAqMSpYKjAwNDAxMH5TVCo5OTcqMDAwMX5BSzEqUE8qMjc1NX5BSzIqODUwKjAwMDF+QUs1KkF+QUsyKjg1MCowMDAyfkFLNSpBfkFLMio4NTAqMDAwM35BSzUqQX5BSzIqODUwKjAwMDR+QUs1KkF+QUsyKjg1MCowMDA1fkFLNSpBfkFLMio4NTAqMDAwNn5BSzUqQX5BSzIqODUwKjAwMDd+QUs1KkF+QUsyKjg1MCowMDA4fkFLNSpBfkFLMio4NTAqMDAwOX5BSzUqQX5BSzIqODUwKjAwMTB+QUs1KkF+QUsyKjg1MCowMDExfkFLNSpBfkFLMio4NTAqMDAxMn5BSzUqQX5BSzIqODUwKjAwMTN+QUs1KkF+QUsyKjg1MCowMDE0fkFLNSpBfkFLMio4NTAqMDAxNX5BSzUqQX5BSzIqODUwKjAwMTZ+QUs1KkF+QUs5KkEqMTYqMTYqMTZ+U0UqMzYqMDAwMX5HRSoxKjF+SUVBKjEqMDAwMDAwMDAxfg==</FileData>
+</ProcessEvent>

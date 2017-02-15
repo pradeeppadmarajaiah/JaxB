@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yellowReport>
+    <ExternalReferenceId>ERIDY6</ExternalReferenceId>
+    <ExternalScheduleId>30MINUTES</ExternalScheduleId>
+    <BusinessAlias>TestData</BusinessAlias>
+    <BusinessAliasName>TestData</BusinessAliasName>
+    <ReportName>TestData</ReportName>
+    <contactsList>
+        <EmailId>emailid</EmailId>
+        <Timezone>IST</Timezone>
+        <RecipientType>TO</RecipientType>
+    </contactsList>
+    <FromEmailId>TestData</FromEmailId>
+    <EmailSubject>TestData</EmailSubject>
+    <DocumentType>STATUS</DocumentType>
+    <DirectionCode>0</DirectionCode>
+    <ReceiverId>Rec6</ReceiverId>
+    <SenderId>Sen</SenderId>
+    <NotificationAction>SEND_NOTIFICATION_ONLY</NotificationAction>
+    <HoldType>RETRY</HoldType>
+    <LookBackInMins>1440</LookBackInMins>
+    <ThresholdInMins>30</ThresholdInMins>
+    <reportDeliveryFormats>
+        <DeliveryFormat>Text</DeliveryFormat>
+        <DeliveryType>BODY</DeliveryType>
+    </reportDeliveryFormats>
+    <reportDeliveryFormats>
+        <DeliveryFormat>CSV</DeliveryFormat>
+        <DeliveryType>ATTACHMENT</DeliveryType>
+    </reportDeliveryFormats>
+    <reportDeliveryMethods>
+        <DeliveryMethod>SMTP</DeliveryMethod>
+    </reportDeliveryMethods>
+</yellowReport>
